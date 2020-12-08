@@ -29,6 +29,4 @@ I'm a professional Full Stack Software Developer currently and always learning n
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cjoynerw" alt="cjoynerw" /></a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cjoynerw&show_icons=true&theme=dark&locale=en&layout=compact" alt="cjoynerw" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=cjoynerw&show_icons=true&theme=dark&locale=en" alt="cjoynerw" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=cjoynerw&show_icons=true&bg_color=ffffff&theme=none&locale=en&layout=compact" alt="cjoynerw" /></p>
