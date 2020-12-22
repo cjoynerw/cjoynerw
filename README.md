@@ -20,8 +20,6 @@ I'm a professional Full Stack Software Developer currently and always learning n
 <img src="https://img.icons8.com/ios-filled/48/000000/github.png"/>
 <img src="https://img.icons8.com/color/48/000000/git.png"/>
 <img src="https://img.icons8.com/color/48/000000/linux.png"/>
-<img src="https://img.icons8.com/color/48/000000/python.png"/>
-<img src="https://img.icons8.com/color/48/000000/postgreesql.png"/>
 <img src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"/>
 - - -
 ### Metrics
